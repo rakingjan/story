@@ -1,0 +1,2 @@
+This is the first time i have written it using Vim editor
+This is my story and written to check Git.
